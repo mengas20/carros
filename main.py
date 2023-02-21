@@ -26,6 +26,13 @@ elif your_car == "laguna" :
        These engines are paired with either a five-speed manual or a 
        six-speed automatic transmission, which provides smooth and responsive
         shifting.""")
+elif your_car == "colhoes" :
+    print(f"""Under the hood, the 2004 Renault Laguna is available with a
+     range of gasoline and diesel engines, including a 1.6-liter, 1.8-liter,
+      and 2.0-liter gasoline engines, and a 1.9-liter and 2.2-liter diesel engines.
+       These engines are paired with either a five-speed manual or a 
+       six-speed automatic transmission, which provides smooth and responsive
+        shifting.""")
 
 
 
